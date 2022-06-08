@@ -1,4 +1,4 @@
-<h1 align="center"><img width="30px"> I'm ARTIFICIAL INTELLIGENCE PROGRAMMER WITH PYTHON</h1>
+<h1 align="center"><img width="30px"> I'M ARTIFICIAL INTELLIGENCE PROGRAMMER WITH PYTHON</h1>
 <!-- 
 <div align="center">
   <img src ="./banner.png" />
