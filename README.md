@@ -75,7 +75,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jompy31&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jompy31" alt="Jean_Pierre" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jompy31&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jompy31&show_icons=true&layout=compact&langs_count=10" alt="Jean_Pierre" />
 </div>
 
 
